@@ -1,4 +1,4 @@
 # rastreador-syscalls
-Rastreador de llamadas la sistema para sistema operativo Linux.
+Rastreador de system calls para sistema operativo Linux.
 
 Implementado en Rust.
